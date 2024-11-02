@@ -1,0 +1,8 @@
+{
+    "scss.format.spaceAroundSelectorSeparator": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.port": 0,
+    "extensions.experimental.affinity": {
+        "live sass": ""
+    }
+}
